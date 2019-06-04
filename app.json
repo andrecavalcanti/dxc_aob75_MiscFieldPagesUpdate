@@ -1,0 +1,27 @@
+{
+  "id": "2f4fad6c-d90a-46cd-8e51-52986bcb55db",
+  "name": "DXC ",
+  "publisher": "DXC",
+  "brief": "",
+  "description": "AOB-75",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50149
+  },
+  "target": "Internal",
+  "showMyCode": true,
+  "breakonerror" : true,
+  "runtime": "1.0"
+}
