@@ -5,7 +5,7 @@ pageextension 50098 "DXCSalesOrderArchSubformExt" extends "Sales Order Archive S
     {        
         addlast(Control1)
         {
-            field("DXC Tarrif Description";"DXC Tarrif Description")
+            field("DXC Tarrif Description";"DXC Tariff Description")
             {
                 ApplicationArea = All;
             }

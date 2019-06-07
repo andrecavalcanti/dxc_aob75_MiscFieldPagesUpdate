@@ -5,7 +5,7 @@ pageextension 50099 "DXCPostedSalesShipSubform" extends "Posted Sales Shpt. Subf
     {        
         addlast(Control1)
         {
-            field("DXC Tarrif Description";"DXC Tarrif Description")
+            field("DXC Tarrif Description";"DXC Tariff Description")
             {
                 ApplicationArea = All;
             }
