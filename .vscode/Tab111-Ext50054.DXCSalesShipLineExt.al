@@ -4,11 +4,11 @@ tableextension 50054 "DXCSalesShipLineExt" extends "Sales Shipment Line" //111
     {
          field(50005;"DXC Tarrif Description";Text[50])
         {
-            CalcFormula = Lookup("Tariff Number".Description WHERE ("No."=FIELD("No.")));
+            //CalcFormula = Lookup("Tariff Number".Description WHERE ("No."=FIELD("No.")));
             Caption = 'Tarrif Description';
             Description = 'AOB-75';
             Editable = false;
-            FieldClass = FlowField;
+            //FieldClass = FlowField;
         }
     }  
     
